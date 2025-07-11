@@ -1,4 +1,4 @@
-const API_KEY = '';
+const API_KEY = pocess.env.REACT_APP_API_KEY;
 const BASE_URL = "https://api.themoviedb.org/3";
 
 
